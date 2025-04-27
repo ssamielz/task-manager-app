@@ -5,6 +5,7 @@ import App from './App'
 import './index.css'
 import { routes } from './routes'
 import { TaskProvider } from './context/taskContext'
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 const router = createBrowserRouter(routes);
 
