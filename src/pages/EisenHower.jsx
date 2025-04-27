@@ -6,7 +6,7 @@ function EisenHower() {
         <>
             <div style={{textAlign: 'left'}}>
                 <section >
-                <header style={{backgroundColor: 'aquamarine'}}>
+                <header style={{backgroundColor: 'orange'}}>
                     <h1>The EisenHower Matrix</h1>
                     <h6>Master your tasks with the EisenHower Matrix</h6>
                     <p>Learn how to prioritize like a pro and get things done efficiently.</p>
@@ -31,7 +31,7 @@ function EisenHower() {
                         allowFullScreen
                     ></iframe>
                 </section>
-                <section style={{backgroundColor: 'aquamarine', width: '100%', clear: 'left'}}>
+                <section style={{backgroundColor: 'orange', width: '100%', clear: 'left'}}>
                         <h3>What is the EisenHower Matrix?</h3>
                         <p >The Eisenhower Matrix is a productivity tool that helps you decide on and prioritize tasks by urgency and importance,
                         sorting them into four easy-to-understand quadrants.</p>
